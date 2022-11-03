@@ -60,6 +60,8 @@
 
 
       
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit22-dev" alt="rohit22-dev" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit22-dev&show_icons=true&locale=en&layout=compact" alt="rohit22-dev" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rohit22-dev&theme=dark)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohit22-dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="rohit22-dev" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit22-dev&" alt="rohit22-dev" /></a> </p>
+
