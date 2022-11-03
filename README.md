@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Blockchain and android development.**
 
-- 🌱 In my free time, **I solve problems on GeeksforGeeks.**
+- ⏳ In my free time, **I solve problems on GeeksforGeeks.**
 
 - 👯 I’m looking to collaborate on **open-source projects.**
 
