@@ -20,3 +20,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🦖 Holopin:
 [![An image of @octivion's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/octivion)](https://holopin.io/@octivion)
+[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com)
